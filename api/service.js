@@ -1,6 +1,6 @@
 // api/serviceApi.js - Create this file in your frontend project
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5023/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://freshbox-server.onrender.com/api';
 
 // Service APIs
 export const serviceApi = {
